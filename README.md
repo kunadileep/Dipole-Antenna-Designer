@@ -47,4 +47,4 @@ Plots are interactive, allowing users to examine and analyze antenna characteris
 3. Adla Sajan Swaroop Reddy - 210002008
 4. Subash Ganti - 210002032
 5. Sowreddy Madhusudhan Reddy - 210002075
-6. Bhukya Vamshi - 210002022
+6. Kuna Sai Dileep Kumar - 210002049
